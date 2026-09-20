@@ -48,7 +48,7 @@ app.get('/', (req, res) => {
                         <option value="400">400x400</option>
                         <option value="500">500x500</option>
                         <option value="600" selected="selected">600x600</option>
-                        <option value="1200" selected="selected">1200x1200</option>
+                        <option value="1200">1200x1200</option>
                     </select>
                 </div>
                 <button type="submit">Générer</button>
