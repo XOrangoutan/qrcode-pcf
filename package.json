@@ -1,0 +1,20 @@
+{
+  "name": "qrcode-pcf",
+  "version": "0.1.0",
+  "description": "Génère un QR code avec le logo du PCF au centre",
+  "main": "/src/qrcodegenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QR code",
+    "PCF"
+  ],
+  "author": "XOrangoutan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.35.4"
+  }
+}
