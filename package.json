@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "QR code",
-    "PCF"
-  ],
+  "keywords": ["QR code","PCF"],
   "author": "XOrangoutan",
   "license": "ISC",
   "dependencies": {
